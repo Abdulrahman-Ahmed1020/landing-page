@@ -12,15 +12,22 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
 
-## What-I-did
+## What I did in app.js
 
 I create three function.
 
-first function - addItemInNav - i created it to create items into navbar.
-second function - viewPort - i created it to know section position.
-third function - addActiveClass - i created it to put or remove your-active-class
+#### first function
 
-all ot these i did it in app.js
+- addItemInNav - i created it to create items into navbar.
 
-when in styles.css i did it
-i made the scroll-beavior smooth to give the scroll the soul
+#### second function
+
+- viewPort - i created it to know section position.
+
+#### third function
+
+- addActiveClass - i created it to put or remove your-active-class
+
+### what i did in styles.css
+
+- i made the scroll-beavior smooth to give the scroll the soul
