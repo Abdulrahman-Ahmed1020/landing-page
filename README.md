@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [Instructions](#instructions)
-- [what-I-did] (#what-I-did)
 
 ## Instructions
 
@@ -17,4 +16,11 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
 I create three function.
 
-first function (addItemInNav)
+first function - addItemInNav - i created it to create items into navbar.
+second function - viewPort - i created it to know section position.
+third function - addActiveClass - i created it to put or remove your-active-class
+
+all ot these i did it in app.js
+
+when in styles.css i did it
+i made the scroll-beavior smooth to give the scroll the soul
