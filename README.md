@@ -30,4 +30,4 @@ I create three function.
 
 ### what i did in styles.css
 
-- i made the scroll-beavior smooth to give the scroll the soul
+- i made the scroll-beavior smooth to give the scroll a soul
